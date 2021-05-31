@@ -5,6 +5,7 @@
 ---
 ###
   * `install git `
+### clone repo
 ```bash
 * git clone https://github.com/MhankBarBar/whatsapp-bot
 ```
