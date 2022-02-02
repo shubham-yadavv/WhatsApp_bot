@@ -7,7 +7,7 @@
   * `install git `
 ### clone repo
 ```bash
-* git clone https://github.com/MhankBarBar/whatsapp-bot
+* https://github.com/shubh22121/WhatsApp_bot.git
 ```
 ---
 install the dependencies
